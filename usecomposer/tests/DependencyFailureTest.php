@@ -1,4 +1,5 @@
 <?php
+namespace Usecomposer\Tests;
 use PHPUnit\Framework\TestCase;
 
 class DependencyFailureTest extends TestCase

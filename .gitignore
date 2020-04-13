@@ -1,2 +1,3 @@
 /.idea/
-/use-composer/vendor/
+/usecomposer/vendor/
+/.phpunit.result.cache

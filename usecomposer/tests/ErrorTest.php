@@ -1,4 +1,5 @@
 <?php declare(strict_types=1);
+namespace Usecomposer\Tests;
 use PHPUnit\Framework\TestCase;
 
 final class ErrorTest extends TestCase
